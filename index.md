@@ -6,6 +6,7 @@ bigimg:
   - "/img/big-imgs/2010-amazonas.JPG" : "Leticia, Amazonas (2010)"
   - "/img/big-imgs/2011-rafting.JPG" : "San Gil, Santander (2011)"
   - "/img/big-imgs/2011-san-gil-2.jpg" : "San Gil, Santander (2011)"
+  - "/img/big-imgs/2011-san-gil-3.jpg" : "San Gil, Santander (2011)"
 ---
 
 My name is Inigo Montoya. I have the following qualities:
