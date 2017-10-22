@@ -34,7 +34,7 @@ bigimg:
 ---
 
 {: .box-note}
-Soy un profesional con nueve años de experiencia gestionando proyectos, ejecutando operaciones e implementando mejoras de procesos administrativos, operativos y financieros en empresas, aplicando herramientas tecnológicas de vanguardia.  
+Cuento con más de nueve años de experiencia gestionando proyectos, ejecutando operaciones e implementando mejoras de procesos administrativos, operativos y financieros en empresas, aplicando herramientas tecnológicas de vanguardia.  
 
 {: .box-note}
 **En estos momentos, busco desarrollar relaciones significativas y duraderas con personas y empresas, apoyándolos con mi experiencia, conocimientos y habilidades.**  
