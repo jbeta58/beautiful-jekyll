@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hola, yo soy...
-subtitle: MBA, Gerente de Proyectos, Financiero, Consultor Lean Construction, Experto en Microsoft Excel, Ingeniero Electrónico, Programador, Caminante, Viajero y ...
+title: ¡Pa' que vea!
+subtitle: Soy MBA, Gerente de Proyectos, Financiero, Consultor Lean Construction, Experto en Excel, Ingeniero Electrónico, Programador, Viajero y ...
 use-site-title: true
 bigimg:
   - "/img/big-imgs/2017-cocora.jpeg" : "Salento, Quindio (2017)"
