@@ -24,7 +24,7 @@ bigimg:
   - "/img/big-imgs/2012-balsaje.JPG" : "Quimbaya, Quindio (2012)"
   - "/img/big-imgs/2012-cartagena.jpg" : "Cartagena, Bolivar (2012)"
   - "/img/big-imgs/2012-puerto-lopez.JPG" : "Puerto Lopez, Meta (2012)"
-  - "/img/big-imgs/2012-bogota.JPG" : "Bogota, Cundinamarca (2012)"
+  - "/img/big-imgs/2012-bogota.jpg" : "Bogota, Cundinamarca (2012)"
   - "/img/big-imgs/2011-rafting.JPG" : "San Gil, Santander (2011)"
   - "/img/big-imgs/2011-san-gil-2.jpg" : "San Gil, Santander (2011)"
   - "/img/big-imgs/2011-san-gil-3.jpg" : "San Gil, Santander (2011)"
