@@ -4,7 +4,7 @@ title: Hola, yo soy...
 subtitle: Why you'd want to go on a date with me
 bigimg:
   - "/img/big-imgs/2017-cocora.jpeg" : "Salento, Quindio (2017)"
-  - "/img/big-imgs/2017-manizales.jpeg" : "Manizales, Quindio (2017)"
+  - "/img/big-imgs/2017-manizales.jpeg" : "Manizales, Caldas (2017)"
   - "/img/big-imgs/2017-salento.jpeg" : "Salento, Quindio (2017)"
   - "/img/big-imgs/2017-circasia.jpeg" : "Circasia, Quindio (2017)"
   - "/img/big-imgs/2017-boquia.jpeg" : "Salento, Quindio (2017)"
@@ -15,7 +15,7 @@ bigimg:
   - "/img/big-imgs/2015-intel.JPG" : "Santa Clara, CA, USA (2015)"
   - "/img/big-imgs/2015-linkedin.JPG" : "Sunnyvale, CA, USA (2015)"
   - "/img/big-imgs/2015-monteria.JPG" : "Monteria, Cordoba (2015)"
-  - "/img/big-imgs/2014-cano-cristales.JPG" : "Macarena, Meta (2014)"
+  - "/img/big-imgs/2014-cano-cristales.JPG" : "La Macarena, Meta (2014)"
   - "/img/big-imgs/2014-guajira.JPG" : "Cabo de la Vela, Guajira (2014)"
   - "/img/big-imgs/2014-guatape.JPG" : "Guatape, Antioquia (2014)"
   - "/img/big-imgs/2013-san-onofre.JPG" : "San Onofre, Sucre (2013)"
