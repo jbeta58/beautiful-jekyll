@@ -221,7 +221,7 @@ prose:
 
 plugins:
   - jekyll-paginate
-paginate:5
+paginate: 5
 paginate_path: "blog/page:num"
 
 # Beautiful Jekyll / Dean Attali
