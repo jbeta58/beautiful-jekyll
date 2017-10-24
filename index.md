@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ¡Pa' que vea!
+title: Sebastian Betancourt
 subtitle: Soy MBA, Gerente de Proyectos, Financiero, Consultor Lean Construction, Experto en Excel, Ingeniero Electrónico, Programador, Viajero y ...
 use-site-title: true
 bigimg:
