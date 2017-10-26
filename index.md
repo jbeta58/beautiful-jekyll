@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sebastian
+title: Sebastián
 subtitle: MBA / Gerente de Proyectos / Consultor Lean Construction / Ing. Electrónico / Programador / Viajero
 use-site-title: true
 bigimg:
