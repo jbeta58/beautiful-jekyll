@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sebastian Betancourt
-subtitle: Soy MBA, Gerente de Proyectos, Financiero, Consultor Lean Construction, Experto en Excel, Ingeniero Electrónico, Programador, Viajero y ...
+title: Sebastian
+subtitle: MBA / Gerente de Proyectos / Consultor Lean Construction / Ing. Electrónico / Programador / Viajero
 use-site-title: true
 bigimg:
   - "/img/big-imgs/2017-cocora.jpeg" : "Salento, Quindio (2017)"
