@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sebastián
-subtitle: MBA / Gerente de Proyectos / Consultor Lean Construction / Ing. Electrónico / Programador / Viajero
+subtitle: MBA / Gerente de Proyectos / Consultor Lean Construction / Gestor Financiero / Ing. Electrónico / Viajero
 use-site-title: true
 bigimg:
   - "/img/big-imgs/2017-cocora.jpeg" : "Salento, Quindio (2017)"
@@ -25,7 +25,6 @@ bigimg:
   - "/img/big-imgs/2012-balsaje.JPG" : "Quimbaya, Quindio (2012)"
   - "/img/big-imgs/2012-cartagena.jpg" : "Cartagena, Bolivar (2012)"
   - "/img/big-imgs/2012-puerto-lopez.JPG" : "Puerto Lopez, Meta (2012)"
-  - "/img/big-imgs/2012-bogota.jpg" : "Bogota, Cundinamarca (2012)"
   - "/img/big-imgs/2011-rafting.JPG" : "San Gil, Santander (2011)"
   - "/img/big-imgs/2011-san-gil-2.jpg" : "San Gil, Santander (2011)"
   - "/img/big-imgs/2011-san-gil-3.jpg" : "San Gil, Santander (2011)"
