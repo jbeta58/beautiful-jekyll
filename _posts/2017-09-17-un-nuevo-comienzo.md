@@ -3,7 +3,6 @@ layout: post
 title: Un nuevo comienzo
 subtitle: Each post also has a subtitle
 bigimg: /img/big-imgs/Natalia-Sebas.jpeg
-image: /img/big-imgs/Natalia-Sebas.jpeg
 tags: [propósitos, vida]
 ---
 
