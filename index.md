@@ -77,8 +77,9 @@ En paralelo, gerencié un proyecto de construcción e instalación de elementos 
 Participé durante varios años en un Club Rotario y allí aprendí algo que he puesto en práctica desde entonces:
 
 {: .box-note}
-**La Prueba Cuádruple:**
+**La Prueba Cuádruple**
 De lo que se piensa, se dice o se hace:
+{: .box-note}
 1. ¿Es la verdad?
 2. ¿Es equitativo para todos los interesados?
 3. ¿Creará buena voluntad y mejores amistades?
