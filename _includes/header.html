@@ -36,7 +36,24 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+		  <span class="post-meta">Publicado el {% assign m = page.date | date: "%-m" %}
+			{{ page.date | date: "%-d de " }}
+			{% case m %}
+  				{% when '1' %}Enero
+				{% when '2' %}Febrero
+				{% when '3' %}Marzo
+				{% when '4' %}Abril
+				{% when '5' %}Mayo
+				{% when '6' %}Junio
+				{% when '7' %}Julio
+				{% when '8' %}Agosto
+				{% when '9' %}Septiembre
+				{% when '10' %}Octubre
+				{% when '11' %}Noviembre
+				{% when '12' %}Diciembre
+			{% endcase %}
+			{{ page.date | date: " de %Y" }}
+		  </span>
 		  {% endif %}
         </div>
       </div>
@@ -61,7 +78,24 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+		  <span class="post-meta">Publicado el {% assign m = page.date | date: "%-m" %}
+			{{ page.date | date: "%-d de " }}
+			{% case m %}
+  				{% when '1' %}Enero
+				{% when '2' %}Febrero
+				{% when '3' %}Marzo
+				{% when '4' %}Abril
+				{% when '5' %}Mayo
+				{% when '6' %}Junio
+				{% when '7' %}Julio
+				{% when '8' %}Agosto
+				{% when '9' %}Septiembre
+				{% when '10' %}Octubre
+				{% when '11' %}Noviembre
+				{% when '12' %}Diciembre
+			{% endcase %}
+			{{ page.date | date: " de %Y" }}
+		  </span>
 		  {% endif %}
         </div>
       </div>
