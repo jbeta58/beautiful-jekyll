@@ -61,6 +61,10 @@ Feb 2009 - Ago 2015, *Berah Construcciones S.A.S.*, Montería.
 ### MAESTRIA EN ADMINISTRACION (MBA) - *énfasis en finanzas*
 2017, *Universidad Pontificia Bolivariana (UPB)*, Montería.
 
+### ESPECIALIZACIÓN EN ANÁLISIS DE DATOS
+Excel a MySQL: Técnicas analíticas para negocios.  
+En curso, *Universidad de Duke - Coursera.org*, NC, USA.
+
 ### INGENIERIA ELECTRÓNICA
 2007, *Universidad Nacional de Colombia (UNAL)*, Bogotá D.C.
 
@@ -69,15 +73,19 @@ Feb 2009 - Ago 2015, *Berah Construcciones S.A.S.*, Montería.
 
 ### CURSOS Y OTROS
 - **Gestión de Proyectos**  
-  Gerencia.  
-  Lean Construction.  
-  Automatización.  
+  2014, *Gerencia estratégica de proyectos con énfasis en PMI*, Camacol, Montería.  
+  2012, *Lean Construction - Mejoras en Gestión de la Construcción*, Universidad EAFIT, Cartagena.  
+  2012, *Automatización de proyectos con Microsoft Project*, SENA, Montería.  
 - **Mejoras de Procesos**  
-  Uso de Modeler y Studio.  
+  2014, *Uso de software Modeler y Studio*, Bizagi, Montería.  
 - **Contabilidad y Finanzas**  
-  Seminario virtual NIIF (IFRS).  
-- **Pedagogía**  
-  Asesoría.  
+  2014, *Seminario virtual NIIF (IFRS)*, Insoft Ltda., Manizales.  
+  2012, *Negociación en la cobranza*, Camacol, Montería.
+  2009, *Contabilidad en las organizaciones*, SENA, Montería.
+- **Pedagogía**  
+  2017, *Asesoría para el uso de las TIC's en la Formación*, SENA, Armenia.
+  2017, *Inducción a procesos pedagógicos*, SENA, Armenia.
+  2017, *Formación AVA Blackboard 9.1*, SENA, Armenia.
 
 ***
 
@@ -99,4 +107,6 @@ Microsoft office | Tablas dinámicas, macros y VBA de Excel | Bizagi modeler y s
 
 `RECONOCIMIENTOS`
 
-
+### DISTINCIÓN ANDRÉS BELLO - CATEGORIA NACIONAL
+Uno de los seis mejores puntajes en la prueba de Matemáticas en los exámenes de Estado ICFES.  
+2001, *Ministerio de Educación*, Armenia.
