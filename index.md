@@ -34,7 +34,7 @@ bigimg:
 
 > "Sólo podemos llevarnos a la tumba la satisfacción de haber hecho lo mejor" - Raymond Carver.
 
-Desde que estaba muy pequeño entendí, la importancia que tiene para las personas que me rodean y para mi el hacer las cosas bien. Durante mi paso por la universidad, aprendí a resolver problemas de forma sistemática y a generar soluciones estables. Ya en el mundo laboral, he combinado las técnicas de resolución de problemas y mi rigurosidad de hacer siempre las cosas bien, para ser cada día más productivo y generar constantemente valor a las empresas para las que he trabajado.
+Desde que estaba muy pequeño, entendí la importancia que tiene para las personas que me rodean y para mí, el hacer las cosas bien. Durante el paso por la universidad, aprendí a resolver problemas de forma sistemática y a generar soluciones estables. Ya en el mundo laboral, he combinado las técnicas de resolución de problemas y mi rigurosidad de hacer siempre las cosas bien, para ser cada día más productivo y generar constantemente valor a las empresas para las que trabajo.
 
 Cuento con más de nueve años de experiencia gestionando proyectos, ejecutando operaciones e implementando mejoras de procesos administrativos, operativos y financieros en empresas, aplicando herramientas tecnológicas de vanguardia.  
 
