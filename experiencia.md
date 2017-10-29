@@ -28,7 +28,7 @@ Sep 2015 - Mar 2017, *Proyecto Inmobiliario RIO S.A.S.*, Montería.
 
 ***
 
-### GERENTE DE PROYECTO
+### <span style="color: #009688">GERENTE DE PROYECTO</span>
 Sep 2011 - Ene 2014, *Unión Temporal Eléctricos*, Montería.
 
 #### Principales funciones y logros
@@ -36,7 +36,7 @@ Sep 2011 - Ene 2014, *Unión Temporal Eléctricos*, Montería.
 
 ***
 
-### SUBGERENTE ADMINISTRATIVO
+### <span style="color: #009688">SUBGERENTE ADMINISTRATIVO</span>
 Feb 2009 - Ago 2015, *Berah Construcciones S.A.S.*, Montería.
 
 #### Principales funciones y logros
@@ -47,7 +47,7 @@ Feb 2009 - Ago 2015, *Berah Construcciones S.A.S.*, Montería.
 
 ***
 
-### INGENIERO SUPERVISOR DE INSTALACIONES ELECTRICAS
+### <span style="color: #009688">INGENIERO SUPERVISOR DE INSTALACIONES ELECTRICAS</span>
 Feb 2009 - Ago 2015, *Berah Construcciones S.A.S.*, Montería.
 
 #### Principales funciones y logros
@@ -58,7 +58,7 @@ Feb 2009 - Ago 2015, *Berah Construcciones S.A.S.*, Montería.
 
 `EDUCACIÓN`
 
-### MAESTRIA EN ADMINISTRACION (MBA) *con énfasis en finanzas*
+### MAESTRIA EN ADMINISTRACION (MBA) - *énfasis en finanzas*
 2017, *Universidad Pontificia Bolivariana (UPB)*, Montería.
 
 ### INGENIERIA ELECTRÓNICA
@@ -72,15 +72,19 @@ Feb 2009 - Ago 2015, *Berah Construcciones S.A.S.*, Montería.
 `HABILIDADES`
 
 #### GERENCIALES
+Resolución de problemas | Autonomía | Orientado a resultados | Adaptabilidad al cambio | Pensamiento ágil.
 
 #### OPERACIONALES
+Orden | Ortografía | Coherencia | Cohesión | Elaboración de documentos y reportes | Uso de PC, tablets y móviles | Transacciones virtuales y físicas. 
 
 #### SOCIALES
+Escucha activa | Asertividad | Resiliencia | Interacción grupal.
 
 #### TECNOLÓGICAS
+Microsoft office | Tablas dinámicas, macros y VBA de Excel | Bizagi modeler y studio | AutoCAD | REVIT | Impera (Last Planner System) | Contapyme | Fomplus | HTML y CSS | JavaScript | Bases de Datos (SQL) | Tableau | Dropbox | Producteev.
 
+***
 
 `RECONOCIMIENTOS`
-
 
 
