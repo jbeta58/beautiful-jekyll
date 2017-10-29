@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Un nuevo comienzo
-subtitle: Each post also has a subtitle
+subtitle: Cambios y retos en mi vida
 bigimg: /img/big-imgs/Natalia-Sebas.jpeg
 tags: [propósitos, vida]
 ---
