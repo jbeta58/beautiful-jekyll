@@ -7,7 +7,7 @@ subtitle: "Mis habilidades, experiencia y formación... hasta ahora"
 
 `EXPERIENCIA`
 
-### INSTRUCTOR VOLUNTARIO
+### <span style="color: #009688">INSTRUCTOR VOLUNTARIO</span>
 Abr 2017 - Presente, *Corpoconexión E.S.A.L.*, Armenia.
 
 #### Principales funciones y logros
@@ -15,7 +15,7 @@ Abr 2017 - Presente, *Corpoconexión E.S.A.L.*, Armenia.
 
 ***
 
-### SUBGERENTE ADMINISTRATIVO Y FINANCIERO
+### <span style="color: #009688">SUBGERENTE ADMINISTRATIVO Y FINANCIERO</span>
 Sep 2015 - Mar 2017, *Proyecto Inmobiliario RIO S.A.S.*, Montería.
 
 #### Principales funciones y logros
@@ -64,12 +64,23 @@ Feb 2009 - Ago 2015, *Berah Construcciones S.A.S.*, Montería.
 ### INGENIERIA ELECTRÓNICA
 2007, *Universidad Nacional de Colombia (UNAL)*, Bogotá D.C.
 
-### BACHILLER ACADÉMICO
+### BACHILLERATO ACADÉMICO
 2001, *Colegio Franciscano San Luis Rey*, Armenia.
 
 ***
 
 `HABILIDADES`
 
+#### GERENCIALES
+
+#### OPERACIONALES
+
+#### SOCIALES
+
+#### TECNOLÓGICAS
+
+
 `RECONOCIMIENTOS`
+
+
 
