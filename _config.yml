@@ -131,7 +131,7 @@ title-separator: "-"
 timezone: "America/Bogota"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /blog/:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
