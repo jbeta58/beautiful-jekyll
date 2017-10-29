@@ -5,9 +5,9 @@ subtitle: "Mis habilidades, experiencia y formación... hasta ahora"
 ---
 
 
-`## Experiencia`
+`EXPERIENCIA`
 
-### Instructor voluntario
+### INSTRUCTOR VOLUNTARIO
 Abr 2017 - Actual *, Corpoconexión E.S.A.L.*, Armenia.
 
 #### Principales funciones y logros
@@ -15,7 +15,7 @@ Abr 2017 - Actual *, Corpoconexión E.S.A.L.*, Armenia.
 
 ***
 
-### Subgerente administrativo y financiero
+### SUBGERENTE ADMINISTRATIVO Y FINANCIERO
 Sep 2015 - Mar 2017 *, Proyecto Inmobiliario RIO S.A.S.*, Montería.
 
 #### Principales funciones y logros
@@ -28,4 +28,4 @@ Sep 2015 - Mar 2017 *, Proyecto Inmobiliario RIO S.A.S.*, Montería.
 
 ***
 
-### Gerente de Proyecto
+### GERENTE DE PROYECTO
