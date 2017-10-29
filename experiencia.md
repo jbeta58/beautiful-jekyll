@@ -68,16 +68,16 @@ Feb 2009 - Ago 2015, *Berah Construcciones S.A.S.*, Montería.
 2001, *Colegio Franciscano San Luis Rey*, Armenia.
 
 ### CURSOS Y OTROS
-- **Gestión de Proyectos**
-  Gerencia.
-  Lean Construction.
-  Automatización.
-- **Mejoras de Procesos**
-  Uso de Modeler y Studio.
-- **Contabilidad y Finanzas**
-  Seminario virtual NIIF (IFRS).
-- **Pedagogía**
-  Asesoría.
+- **Gestión de Proyectos**  
+  Gerencia.  
+  Lean Construction.  
+  Automatización.  
+- **Mejoras de Procesos**  
+  Uso de Modeler y Studio.  
+- **Contabilidad y Finanzas**  
+  Seminario virtual NIIF (IFRS).  
+- **Pedagogía**  
+  Asesoría.  
 
 ***
 
