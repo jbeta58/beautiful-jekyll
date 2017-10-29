@@ -24,7 +24,7 @@ description: Mi hoja de vida y blog
 # List of links in the navigation bar
 navbar-links:
   Inicio: ""
-  Experiencia: "aboutme"
+  Experiencia: "experiencia"
   Blog: "blog"
   Hoja de Vida (CV): "docs/HV_JSBT_23_OCT_2017.pdf"
 
