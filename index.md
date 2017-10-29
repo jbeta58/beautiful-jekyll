@@ -34,15 +34,15 @@ bigimg:
 
 > "Sólo podemos llevarnos a la tumba la satisfacción de haber hecho lo mejor" - Raymond Carver.
 
-Desde que estaba en el colegio
+Desde que estaba en el muy pequeño entendí la importancia que tiene para las personas que me rodean y para mi, el hacer las cosas bien. Durante mi paso por la universidad aprendí a resolver problemas de forma sistemática y generar soluciones estables. Ya en el mundo laboral, he combinado las técnicas de resolución de problemas y mi rigurosidad de hacer siempre las cosas bien, para ser cada día más productivo y generar constantemente valor a las empresas para las que he trabajado.
 
 Cuento con más de nueve años de experiencia gestionando proyectos, ejecutando operaciones e implementando mejoras de procesos administrativos, operativos y financieros en empresas, aplicando herramientas tecnológicas de vanguardia.  
 
-Y en estos momentos, busco desarrollar relaciones significativas y duraderas con personas y empresas, apoyándolos con mi experiencia, conocimientos y habilidades.
+En estos momentos, busco desarrollar relaciones significativas y duraderas con personas o empresas, apoyándolas con mi experiencia, conocimientos y habilidades.
 
 ---
 
-### Los <span style="color: #009688">SERVICIOS</span> que presto:  
+### Estos son algunos de los <span style="color: #009688">Servicios</span> que presto:  
 
 * **Gestión Financiera:** Analizo y tomo decisiones a partir de información financiera de la empresa y en caso de no existir, puedo elaborarla a partir de los datos que se encuentran en la organización. También puedo evaluar proyectos y valorar empresas con diversas técnicas.  
 
@@ -58,7 +58,7 @@ Y en estos momentos, busco desarrollar relaciones significativas y duraderas con
 
 * **Mejoramiento de Procesos:** Aplico mis conocimientos y experiencia en la revisión y el mejoramiento de procesos misionales, de apoyo y estratégicos de todo tipo de empresas.  
 
-   Para esto observo y tomo notas del proceso, analizo la información obtenida, elaboro un plan de mejoramiento en conjunto con el equipo de trabajo, implementamos el plan, se verifica su efectividad y se repite el proceso continuamente.  
+   Para esto, observo y tomo notas del proceso, analizo la información obtenida, elaboro un plan de mejoramiento en conjunto con el equipo de trabajo, implementamos el plan, se verifica su efectividad y se repite el proceso continuamente.  
 
 * **Gestión de Tareas:** Aplico y capacito a personas en el uso de varias técnicas y herramientas que permiten mejorar la productividad individual y grupal, tales como Getting Things Done (GTD), Producteev, Sistema KANBAN, Dropbox, Things, TeamViewer, entre otros.
 
@@ -68,6 +68,24 @@ Por favor revise la página de mi [Experiencia](https://jbeta58.github.io/experi
 
 ### Cómo llegué hasta donde estoy
 
-Nací y me crié en el Quindío. Estudié mi carrera universitaria (ingeniería electrónica) en Bogotá D.C. y al terminar estuve varios meses trabajando en un proyecto  la misma ciudad, posteriormente me ofrecieron trabajar para una empresa Constructora en Montería.
+Nací y me crié en el Quindío. El bachillerato lo cursé en Armenia. Hice parte durante dos años de un Semillero de Investigación de la Universidad del Quindío, ofrecido para los mejores estudiantes de los grados 10 y 11 de los colegios de la ciudad de Armenia. Estudié inglés en el BNC Colombo Americano (todos los niveles). Jugué bolos con la Liga del Quindío por tres años y participé en dos Juegos Nacionales. Estudié mi carrera universitaria (ingeniería electrónica) en Bogotá D.C. y al terminar estuve varios meses trabajando en un proyecto para CENIFLORES.
+
+Luego me ofrecieron trabajo en una empresa recién creada, del sector Constructor en Montería. Allí apliqué mis conocimientos y habilidades para la instalación de equipos de domótica y la supervisión de instalaciones eléctricas en edificios residenciales. La empresa empezó a crecer y así mismo mis responsabilidades, desempeñando el cargo de Subgerente Administrativo, donde realicé mejoras en los distintos procesos empresariales e implementé el sistema de gestión contable y financiero (en conjunto con el revisor fiscal y contador).
+
+En paralelo, gerencié un proyecto de construcción e instalación de elementos electromecánicos de una Estación de Bombeo de Aguas Residuales, donde tuve a mi cargo personal administrativo, operativo y contratistas. Además, realicé la planeación y control de riesgos, finanzas, logística y calidad del proyecto.
+
+Participé durante varios años en un Club Rotario y allí aprendí algo que he puesto en práctica desde entonces:
+
+### La Prueba Cuádruple
+De lo que se piensa, se dice o se hace:
+1. ¿Es la verdad?
+2. ¿Es equitativo para todos los interesados?
+3. ¿Creará buena voluntad y mejores amistades?
+4. ¿Será beneficioso para todos los interesados?
+
+Posteriormente, trabajé en otra constructora como Subgerente Administrativo y Financiero, donde implementé la filosofía Lean Construction para mejorar la administración de proyectos, modelé e implementé procesos usando el software BIZAGI y realicé varias funciones para la gestión financiera de la empresa.
+
+Hace poco terminé una Maestría en Administración con énfasis en finanzas y regresé al Quindío, donde me he desempeñado como instructor voluntario para una fundación que trabaja en diversas comunas de la ciudad de Armenia.
+
 
 De nuevo, por favor revise la página de mi [Experiencia](https://jbeta58.github.io/experiencia/) para que conozca más sobre mis habilidades, experiencia, formación y reconocimientos. Y visite mis redes sociales, cuyos links están en la parte inferior de ésta página, para contactarme y saber más de mi.
