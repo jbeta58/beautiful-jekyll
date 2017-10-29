@@ -76,7 +76,8 @@ En paralelo, gerencié un proyecto de construcción e instalación de elementos 
 
 Participé durante varios años en un Club Rotario y allí aprendí algo que he puesto en práctica desde entonces:
 
-### La Prueba Cuádruple
+{: .box-note}
+**La Prueba Cuádruple:**
 De lo que se piensa, se dice o se hace:
 1. ¿Es la verdad?
 2. ¿Es equitativo para todos los interesados?
@@ -87,5 +88,6 @@ Posteriormente, trabajé en otra constructora como Subgerente Administrativo y F
 
 Hace poco terminé una Maestría en Administración con énfasis en finanzas y regresé al Quindío, donde me he desempeñado como instructor voluntario para una fundación que trabaja en diversas comunas de la ciudad de Armenia.
 
+***
 
-De nuevo, por favor revise la página de mi [Experiencia](https://jbeta58.github.io/experiencia/) para que conozca más sobre mis habilidades, experiencia, formación y reconocimientos. Y visite mis redes sociales, cuyos links están en la parte inferior de ésta página, para contactarme y saber más de mi.
+*De nuevo, por favor revise la página de mi [Experiencia](https://jbeta58.github.io/experiencia/) para que conozca más sobre mis habilidades, experiencia, formación y reconocimientos. Y visite mis redes sociales, cuyos links están en la parte inferior de ésta página, para contactarme y saber más de mi.*
