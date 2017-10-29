@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Experiencia y Formación"
-subtitle: "Mis habilidades, experiencia y formación... hasta ahora"
+subtitle: "Mis habilidades, experiencia, formación y reconocimientos... hasta ahora"
 ---
 
 
