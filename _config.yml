@@ -25,7 +25,7 @@ description: Mi hoja de vida y blog
 navbar-links:
   Sobre mi: ""
   Blog: "blog"
-  Hoja de Vida (CV): "docs/HV_JSBT_2P_01_oct_2017.pdf"
+  Hoja de Vida (CV): "docs/HV_JSBT_23_OCT_2017.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
