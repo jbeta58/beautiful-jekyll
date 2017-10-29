@@ -73,19 +73,19 @@ En curso, *Universidad de Duke - Coursera.org*, NC, USA.
 
 ### CURSOS Y OTROS
 - **Gestión de Proyectos**  
-  2014, *Gerencia estratégica de proyectos con énfasis en PMI*, Camacol, Montería.  
-  2012, *Lean Construction - Mejoras en Gestión de la Construcción*, Universidad EAFIT, Cartagena.  
-  2012, *Automatización de proyectos con Microsoft Project*, SENA, Montería.  
+ 2014, *Gerencia estratégica de proyectos con énfasis en PMI*, Camacol, Montería.  
+ 2012, *Lean Construction - Mejoras en Gestión de la Construcción*, Universidad EAFIT, Cartagena.  
+ 2012, *Automatización de proyectos con Microsoft Project*, SENA, Montería.  
 - **Mejoras de Procesos**  
-  2014, *Uso de software Modeler y Studio*, Bizagi, Montería.  
+ 2014, *Uso de software Modeler y Studio*, Bizagi, Montería.  
 - **Contabilidad y Finanzas**  
-  2014, *Seminario virtual NIIF (IFRS)*, Insoft Ltda., Manizales.  
-  2012, *Negociación en la cobranza*, Camacol, Montería.
-  2009, *Contabilidad en las organizaciones*, SENA, Montería.
-- **Pedagogía**  
-  2017, *Asesoría para el uso de las TIC's en la Formación*, SENA, Armenia.
-  2017, *Inducción a procesos pedagógicos*, SENA, Armenia.
-  2017, *Formación AVA Blackboard 9.1*, SENA, Armenia.
+ 2014, *Seminario virtual NIIF (IFRS)*, Insoft Ltda., Manizales.  
+ 2012, *Negociación en la cobranza*, Camacol, Montería.  
+ 2009, *Contabilidad en las organizaciones*, SENA, Montería.  
+- **Pedagogía**  
+ 2017, *Asesoría para el uso de las TIC's en la Formación*, SENA, Armenia.  
+ 2017, *Inducción a procesos pedagógicos*, SENA, Armenia.  
+ 2017, *Formación AVA Blackboard 9.1*, SENA, Armenia.  
 
 ***
 
@@ -108,5 +108,5 @@ Microsoft office | Tablas dinámicas, macros y VBA de Excel | Bizagi modeler y s
 `RECONOCIMIENTOS`
 
 ### DISTINCIÓN ANDRÉS BELLO - CATEGORIA NACIONAL
-Uno de los seis mejores puntajes en la prueba de Matemáticas en los exámenes de Estado ICFES.  
+Uno de los seis mejores puntajes en prueba de Matemáticas en exámenes de Estado ICFES.  
 2001, *Ministerio de Educación*, Armenia.
