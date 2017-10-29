@@ -67,20 +67,32 @@ Feb 2009 - Ago 2015, *Berah Construcciones S.A.S.*, Montería.
 ### BACHILLERATO ACADÉMICO
 2001, *Colegio Franciscano San Luis Rey*, Armenia.
 
+### CURSOS Y OTROS
+- **Gestión de Proyectos**
+  Gerencia.
+  Lean Construction.
+  Automatización.
+- **Mejoras de Procesos**
+  Uso de Modeler y Studio.
+- **Contabilidad y Finanzas**
+  Seminario virtual NIIF (IFRS).
+- **Pedagogía**
+  Asesoría.
+
 ***
 
 `HABILIDADES`
 
-#### GERENCIALES
+### GERENCIALES
 Resolución de problemas | Autonomía | Orientado a resultados | Adaptabilidad al cambio | Pensamiento ágil.
 
-#### OPERACIONALES
+### OPERACIONALES
 Orden | Ortografía | Coherencia | Cohesión | Elaboración de documentos y reportes | Uso de PC, tablets y móviles | Transacciones virtuales y físicas. 
 
-#### SOCIALES
+### SOCIALES
 Escucha activa | Asertividad | Resiliencia | Interacción grupal.
 
-#### TECNOLÓGICAS
+### TECNOLÓGICAS
 Microsoft office | Tablas dinámicas, macros y VBA de Excel | Bizagi modeler y studio | AutoCAD | REVIT | Impera (Last Planner System) | Contapyme | Fomplus | HTML y CSS | JavaScript | Bases de Datos (SQL) | Tableau | Dropbox | Producteev.
 
 ***
