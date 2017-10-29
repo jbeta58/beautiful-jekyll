@@ -4,13 +4,24 @@ title: "Experiencia y Formación"
 subtitle: "Mis habilidades, experiencia y formación... hasta ahora"
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+***
+# EXPERIENCIA
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Instructor voluntario
+Abr 2017 - Actual *, Corpoconexión E.S.A.L.*, Armenia.
 
-What else do you need?
+### Principales funciones y logros
+- Diseño e instrucción de cursos a miembros de Juntas de Acción Comunal de comunas de Armenia.
 
-### my history
+## Subgerente administrativo y financiero
+Sep 2015 - Mar 2017 *, Proyecto Inmobiliario RIO S.A.S.*, Montería.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Principales funciones y logros
+- Desarrollo y análisis de indicadores de gestión de procesos empresariales para toma de decisiones.
+- Implementación de soluciones empresariales y modelado de procesos usando software BIZAGI.
+- Implementación de herramientas tecnológicas en los campos administrativo y operativos de la construcción, para mejorar eficiencia y eficacia empresarial (Lean Construction, Last Planner System, entre otros).
+- Elaboración de Informes financieros en Excel usando tablas dinámicas, macros y código VBA.
+- Subrogación de créditos bancarios de clientes y escrituración de inmuebles.
+- Mejoramiento continuo de los distintos procesos de la empresa.
+
+## Gerente de Proyecto
