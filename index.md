@@ -70,11 +70,11 @@ En estos momentos, busco desarrollar relaciones significativas y duraderas con p
 
 Nací y me crié en el Quindío. El bachillerato lo cursé en Armenia. Hice parte durante dos años de un Semillero de Investigación de la Universidad del Quindío, ofrecido para los mejores estudiantes de los grados 10 y 11 de los colegios de la ciudad de Armenia. Estudié inglés en el BNC Colombo Americano (todos los niveles). Jugué bolos con la Liga del Quindío por tres años y participé en dos Juegos Nacionales. Estudié mi carrera universitaria (ingeniería electrónica) en Bogotá D.C. y al terminar estuve varios meses trabajando en un proyecto para CENIFLORES.
 
-Luego me ofrecieron trabajo en una empresa recién creada, del sector Constructor en Montería. Allí apliqué mis conocimientos y habilidades para la instalación de equipos de domótica y la supervisión de instalaciones eléctricas en edificios residenciales. La empresa empezó a crecer y así mismo mis responsabilidades, desempeñando el cargo de Subgerente Administrativo, donde realicé mejoras en los distintos procesos empresariales e implementé el sistema de gestión contable y financiero.
+Luego me ofrecieron trabajo en una empresa recién creada, del sector Construcción en Montería. Allí apliqué mis conocimientos y habilidades para la instalación de equipos de domótica y la supervisión de instalaciones eléctricas en edificios residenciales. La empresa empezó a crecer y así mismo mis responsabilidades, desempeñando el cargo de Subgerente Administrativo, donde realicé mejoras en los distintos procesos empresariales e implementé el sistema de gestión contable y financiero.
 
-En paralelo, gerencié un proyecto de construcción e instalación de elementos electromecánicos de una Estación de Bombeo de Aguas Residuales, donde tuve a mi cargo personal administrativo, operativo y contratistas. Además, realicé la planeación y control de riesgos, finanzas, logística y calidad del proyecto.
+En paralelo, gerencié un proyecto de construcción e instalación de elementos electromecánicos de una Estación de Bombeo de Aguas Residuales, donde tuve a mi cargo personal administrativo, operativo y contratistas. Además, realicé la planeación y control de los riesgos, las finanzas, la logística y la calidad del proyecto.
 
-Participé durante varios años en un Club Rotario y allí aprendí algo que he puesto en práctica desde entonces:
+Participé durante varios años en un Club Rotario y allí aprendí algo muy importante que he puesto en práctica desde entonces:
 
 #### La Prueba Cuádruple
 De lo que se piensa, se dice o se hace:
@@ -83,7 +83,7 @@ De lo que se piensa, se dice o se hace:
 3. ¿Creará buena voluntad y mejores amistades?
 4. ¿Será beneficioso para todos los interesados?
 
-Posteriormente, trabajé en otra constructora como Subgerente Administrativo y Financiero, donde implementé la filosofía Lean Construction para mejorar la administración de proyectos, modelé e implementé procesos y realicé varias funciones para la gestión financiera de la empresa.
+Posteriormente, trabajé en otra constructora como Subgerente Administrativo y Financiero, donde ejecuté las mismas funciones que en la anterior empresa y adicionalmente, implementé la filosofía Lean Construction para mejorar la administración de los proyectos, modelé e implementé procesos usando software especializado y realicé junto al gerente general la gestión financiera de la empresa.
 
 Hace poco terminé una Maestría en Administración con énfasis en Finanzas y regresé al Quindío, donde me he desempeñado como instructor voluntario para una fundación que trabaja en diversas comunas de la ciudad de Armenia.
 
