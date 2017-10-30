@@ -62,7 +62,7 @@ En estos momentos, busco desarrollar relaciones significativas y duraderas con p
 
 * **Gestión de Tareas:** Aplico y capacito a personas en el uso de varias técnicas y herramientas que permiten mejorar la productividad individual y grupal, tales como Getting Things Done (GTD), Producteev, Sistema KANBAN, Dropbox, Things, TeamViewer, entre otros.
 
-*Por favor revise la página de mi [Experiencia](https://jbeta58.github.io/experiencia/) para que conozca más sobre mis habilidades, experiencia, formación y reconocimientos. También puede descargar mi [Hoja de Vida (Curriculum Vitae)](https://jbeta58.github.io/docs/HV_JSBT.pdf). Y visite mis redes sociales, cuyos links están en la parte inferior de ésta página, para contactarme y saber más de mi.*
+*Por favor revise la página de mi [Experiencia](https://sebastianbetancourt.com/experiencia/) para que conozca más sobre mis habilidades, experiencia, formación y reconocimientos. También puede descargar mi [Hoja de Vida (Curriculum Vitae)](https://sebastianbetancourt.com/docs/HV_JSBT.pdf). Y visite mis redes sociales, cuyos links están en la parte inferior de ésta página, para contactarme y saber más de mi.*
 
 ***
 
@@ -89,4 +89,4 @@ Hace poco terminé una Maestría en Administración con énfasis en Finanzas y r
 
 ***
 
-*De nuevo, por favor revise la página de mi [Experiencia](https://jbeta58.github.io/experiencia/) para que conozca más sobre mis habilidades, experiencia, formación y reconocimientos. Y visite mis redes sociales, cuyos links están en la parte inferior de ésta página, para contactarme y saber más de mi.*
+*De nuevo, por favor revise la página de mi [Experiencia](https://sebastianbetancourt.com/experiencia/) para que conozca más sobre mis habilidades, experiencia, formación y reconocimientos. Y visite mis redes sociales, cuyos links están en la parte inferior de ésta página, para contactarme y saber más de mi.*
