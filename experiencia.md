@@ -109,4 +109,4 @@ Microsoft office | Tablas dinámicas, macros y VBA de Excel | Bizagi modeler y s
 
 ### DISTINCIÓN ANDRÉS BELLO - CATEGORIA NACIONAL
 Uno de los seis mejores puntajes a nivel nacional en la prueba de Matemáticas de los exámenes de estado ICFES.  
-2001, *Ministerio de Educación*, Armenia.
+2001, *Ministerio de Educación*, Bogotá D.C.
