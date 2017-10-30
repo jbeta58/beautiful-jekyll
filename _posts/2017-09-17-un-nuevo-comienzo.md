@@ -25,7 +25,7 @@ Son varios los cambios realizados hasta el momento y también los retos que teng
 - Convertirme en un Full-Stack Developer y conectar mis conocimientos en las otras áreas del saber, para ofrecer soluciones completas y efectivas a todas las personas y empresas que lo requieran.
 - Ya que todo en la vida no puede ser trabajo, quiero continuar viajando y conociendo el país y el resto del mundo.
 
-Por cierto, si estás leyendo esto y tienes tiempo, te invito a que conozcas los [Servicios](https://jbeta58.github.io/) que presto y la [Experiencia](https://jbeta58.github.io/experiencia/) que he adquirido durante más de nueve años de trabajo.
+Por cierto, si estás leyendo esto y tienes tiempo, te invito a que conozcas los [Servicios](https://sebastianbetancourt.com/) que presto y la [Experiencia](https://sebastianbetancourt.com/experiencia/) que he adquirido durante más de nueve años de trabajo.
 
 A través de éste blog escribiré sobre los temas que conozco y me apasionan, y espero que le sirva a todos aquellos que lo lean.
 
