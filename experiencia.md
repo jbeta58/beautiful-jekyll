@@ -108,5 +108,5 @@ Microsoft office | Tablas dinámicas, macros y VBA de Excel | Bizagi modeler y s
 `RECONOCIMIENTOS`
 
 ### DISTINCIÓN ANDRÉS BELLO - CATEGORIA NACIONAL
-Uno de los seis mejores puntajes en prueba de Matemáticas en exámenes ICFES.  
+Uno de los seis mejores puntajes a nivel nacional en la prueba de Matemáticas de los exámenes de estado ICFES.  
 2001, *Ministerio de Educación*, Armenia.
