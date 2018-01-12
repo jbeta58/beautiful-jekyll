@@ -42,6 +42,9 @@ Feb 2009 - Ago 2015, *Berah Construcciones S.A.S.*, Montería.
 #### Principales funciones y logros
 - Implementación del sistema de gestión contable y financiero de la empresa.
 - Caracterización, documentación e implementación de procedimientos de los procesos estratégicos, operacionales y de apoyo de la empresa.
+- Elaboración de presupuestos para proyectos.
+- Control de costos y gastos en proyectos.
+- Caracterización, documentación e implementación de procedimientos de los procesos estratégicos, operacionales y de apoyo de la empresa.
 - Mejoramiento continuo de los distintos procesos de la empresa.
 - Apoyo a la gestión de procesos legales de la empresa.
 
@@ -95,7 +98,7 @@ En curso, *Universidad de Duke - Coursera.org*, NC, USA.
 Resolución de problemas | Autonomía | Orientado a resultados | Adaptabilidad al cambio | Pensamiento ágil.
 
 ### OPERACIONALES
-Orden | Ortografía | Coherencia | Cohesión | Elaboración de documentos y reportes | Uso de PC, tablets y móviles | Transacciones virtuales y físicas. 
+Gestión Financiera | Gestión de Proyectos | Elaboración de Presupuestos | Control de Costos y Gastos | Supervisión Contable | Supervisión Legal | Capacitación de Personal | Uso de Tecnología | Mejoramiento de Procesos | Elaboración de Reportes y Otros Documentos | Implementación Lean Construction. 
 
 ### SOCIALES
 Escucha activa | Asertividad | Resiliencia | Interacción grupal.
