@@ -8,7 +8,7 @@ subtitle: "Mis habilidades, experiencia, formación y reconocimientos... hasta a
 `EXPERIENCIA`
 
 ### <span style="color: #009688">INSTRUCTOR VOLUNTARIO</span>
-Abr 2017 - Presente, *Corpoconexión E.S.A.L.*, Armenia.
+Abr 2017 - Nov 2017, *Corpoconexión E.S.A.L.*, Armenia.
 
 #### Principales funciones y logros
 - Diseño e instrucción de cursos a miembros de Juntas de Acción Comunal de comunas de Armenia.
