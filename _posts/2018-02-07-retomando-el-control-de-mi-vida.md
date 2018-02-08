@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Retomando el control de mi vida
-subtitle: Solamente yo puedo hacer algo para que el cambio suceda
+subtitle: Solamente uno mismo puedo hacer algo para que el cambio suceda
 tags: [propósitos, vida, cambios, control]
 ---
 
@@ -33,7 +33,7 @@ Ayer al estar sentado viendo un programa de televisión, recordé que hacía uno
 me estaba preguntando si yo era un adicto a la televisión y había leído un artículo en inglés sobre esto. 
 El artículo se llama "How I Overcame TV Addiction, Reclaimed My Life and Gained Two Months Per Year" 
 (en español: Cómo superé la adicción a la televisión, recuperé mi vida y gané dos meses por año) 
-acá está el [link](https://www.michaeldpollock.com/how-i-overcame-tv-addiction/).
+[acá está el link](https://www.michaeldpollock.com/how-i-overcame-tv-addiction/).
 
 Volví a leer el artículo anoche y me di cuenta que hoy más que nunca estoy en la posición en la que se encontraba Michael
 antes de superar la adicción a la televisión. Veamos cómo llegué a esto:
@@ -65,34 +65,43 @@ desde que tengo uso de razón hasta el momento en el que escribo este post, que 
 |17 a los 22 años      |15                |10                   |7.800         |325          |10,83         |
 |23 a los 31 años      |25                |15                   |18.720        |780          |26            |
 |32 años hasta hoy     |50                |15                   |3.380         |140,83       |4,69          |
-|Gran Total            |                  |                     |50.960        |2.123,33     |70,77         |
+|Gran Total (33 años)  |                  |                     |50.960        |2.123,33     |70,77         |
 
-Es decir que de los casi 33 años de mi vida he pasado 5,89 (casi 6) años viendo televisión, lo que equivale al 17,8%. 
+*Es decir que de los casi 33 años de mi vida he pasado 5,89 **(casi 6) años viendo televisión**, lo que equivale al 17,8%
+de mi vida.* 
 
 Si calculamos el tiempo que he dedicado a dormir, teniendo en cuenta un promedio diario de 6 horas, tenemos que en mis
 casi 33 años de vida he dormido 8,25 años, lo que equivale al 25%. Lo cual sumado al tiempo que he dedicado a ver televisión,
-alcanza la cifra de 42,8%, dejando solo un 57,2% para hacer cosas productivas.
+alcanza la cifra de 42,8%, **dejando solo un 57,2% para hacer cosas productivas**.
 
-Es INCREIBLE...
+**Es INCREIBLE...**
 
 Cuántas cosas que en este momento quisiera saber, hubiera podido aprender en todo ese tiempo que dediqué a ver
 televisión. Digamos que solo tenga en cuenta el tiempo gastado en consumir televisión desde que ingresé a la universidad.
 Igual es una cifra impresionante, casi 3,5 años gastados en televisión!
 
-Una cita que me impresionó de otros de los artículos de Michael Pollock fue esta:
+Una cita que me impresionó de [otro de los artículos de Michael Pollock](https://www.michaeldpollock.com/quotes-tv-addiction/) fue esta:
 
-Los arqueólogos no saben con exactitud cuándo empezó la civilización, pero algo importante parece que existió desde el año
-6.000 antes de cristo. A través de los 8.000 años que han transcurrido desde esa fecha, la humanidad ha trabajado, jugado,
-inventado, hecho el amor, peliado, pintado, escrito, leído, plantado jardines, criado hijos, sembrado, cosechado, resuelto
-problemas y dificultades. Nosotros todavía hacemos estas cosas, sin embargo, en alguna forma hemos alterado las proporciones.
-Adicionalmente, hacemos algo ahora que no ha sido posible a través de casi toda la historia: En vez de realmente hacer todas
-esas cosas, presionamos un botón y nos sentamos en nuestras casas a ver actores que pretenden hacerlas. Esta es, de hecho,
-nuestra principal actividad de tiempo libre, y lo es tanto, que algunos de nosotros tenemos dificultad en imaginar la vida
-sin televisión.
+> "Los arqueólogos no saben con certeza cuándo se puede decir que comenzó la civilización, pero algo parecido parece haber existido en el año 6.000 antes de Cristo. A lo largo de los 8.000 años transcurridos desde entonces, la humanidad ha trabajado, jugado, inventado, hecho el amor, luchado, pintado, escrito, leído, plantado jardines, criado niños, cosido, cortado, resuelto problemas y resuelto dificultades. Todavía hacemos esas cosas, aunque en proporciones algo alteradas. Además, hacemos una cosa ahora que no fue posible durante la mayor parte de la historia: en lugar de hacer estas cosas, presionamos un botón y nos sentamos en nuestros hogares viendo a los actores fingir que lo hacen. Esta es, de hecho, nuestra principal actividad de tiempo libre, tanto que algunos de nosotros tenemos dificultades para imaginar la vida sin televisión." - Tomado originalmente de Living Outside the Box - Barbara Bock.
 
-Tomado de Living Outside the Box de Barbara Bock.
+Y esto me cae a mi, como anillo al dedo. Es el reflejo de lo que ha sido parte de mi vida. He preferido ver cómo grandes
+actores en grandes películas hacen cosas maravillosas, en vez de yo mismo salir a hacerlas, o por lo menos a hacer el intento.
 
-Voy a tomar este espacio para llevar una especie de diario personal
+Pero como dicen por ahí... Nunca es tarde!
+
+Así que ahora pongo en marcha un plan para acabar con la **adicción a la televisión**.
+
+###El Plan
+
+La reflexión que he realizado en estos días me ha dejado claro, la necesidad de modificar lo que hasta ahora vengo haciendo
+con mi vida. En este momento no tengo un plan 100% desarollado, pero hay varias cosas que voy a empezar a implementar.
+
+- Escribir un post diario durante los próximos 30 días. Este es el # 1, por lo que me quedan 29 por escribir.
+- Continuar con el curso de Análisis de Datos de Coursera y acabarlo lo más pronto posible.
+- Bajar el consumo de televisión diaria a 2 horas o menos. Actualmente mi consumo promedio es de 10 horas diarias aprox.
+
+No voy a poner más cosas (por el momento), porque la verdad es que si no puedo con estas tres, mucho menos voy a poder hacer otras.
+
 
 *Juan Sebastián.*
 
