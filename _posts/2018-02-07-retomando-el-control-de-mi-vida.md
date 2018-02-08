@@ -40,8 +40,8 @@ antes de superar la adicción a la televisión. Veamos cómo llegué a esto:
 
 Cuando era pequeño y asistía al colegio siempre fui un excelente estudiante y algo que me caracterizaba era la forma de 
 hacer las tareas en casa, casi siempre me sentaba en la mesa del comedor (que estaba junto a la sala) y prendía el televisor
-mientras una a una terminaba las tareas. Para mis papás era algo increíble que yo tuviera la capacidad de hacer las dos cosas
-al tiempo, pero como cumpla con mis deberes, creo que les parecía bien.
+mientras una a una terminaba las tareas. Para mis papás era increíble que yo tuviera la capacidad de hacer las dos cosas
+al tiempo, pero como cumplía con mis deberes, creo que les parecía bien.
 
 Al ingresar a la universidad todo seguía prácticamente igual, sin embargo, fue menor el tiempo que dedicaba a ver televisión
 y pasaba un poco más de tiempo con mis amigos.
@@ -56,6 +56,10 @@ mi consumo de televisión. Sin embargo, como los dos trabajábamos, y ella empez
 que podíamos hacer juntos, se redujeron al fin de semana. Así que en las noches entre semana yo me la pasaba viendo televisión
 mientras ella regresaba.
 
+Pero hace poco, he venido notando que ya no tengo la misma capacidad que tenía cuando era un niño para hacer las dos cosas al
+tiempo, y recuerdo que muchas veces he dejado de lado lo que estoy haciendo en el computador para pasar a ver solo la
+televisión.
+
 Como lo sugiere en su artículo Michael Pollock, hice un cálculo de la cantidad aproximada de televisión que he consumido
 desde que tengo uso de razón hasta el momento en el que escribo este post, que resumo en la siguiente tabla:
 
@@ -67,8 +71,8 @@ desde que tengo uso de razón hasta el momento en el que escribo este post, que 
 |32 años hasta hoy     |50                |15                   |3.380         |140,83       |4,69          |
 |Gran Total (33 años)  |                  |                     |50.960        |2.123,33     |70,77         |
 
-*Es decir que de los casi 33 años de mi vida he pasado 5,89 **(casi 6) años viendo televisión**, lo que equivale al 17,8%
-de mi vida.* 
+*Es decir que de los casi 33 años de mi vida he pasado 5,89 **(casi 6) años viendo televisión**, lo que equivale al **17,8%
+de mi vida**.* 
 
 Si calculamos el tiempo que he dedicado a dormir, teniendo en cuenta un promedio diario de 6 horas, tenemos que en mis
 casi 33 años de vida he dormido 8,25 años, lo que equivale al 25%. Lo cual sumado al tiempo que he dedicado a ver televisión,
@@ -76,8 +80,8 @@ alcanza la cifra de 42,8%, **dejando solo un 57,2% para hacer cosas productivas*
 
 **Es INCREIBLE...**
 
-Cuántas cosas que en este momento quisiera saber, hubiera podido aprender en todo ese tiempo que dediqué a ver
-televisión. Digamos que solo tenga en cuenta el tiempo gastado en consumir televisión desde que ingresé a la universidad.
+¿Cuántas cosas que en este momento quisiera saber, hubiera podido aprender en todo ese tiempo que dediqué a ver
+televisión? Digamos que solo tenga en cuenta el tiempo gastado en consumir televisión desde que ingresé a la universidad.
 Igual es una cifra impresionante, casi 3,5 años gastados en televisión!
 
 Una cita que me impresionó de [otro de los artículos de Michael Pollock](https://www.michaeldpollock.com/quotes-tv-addiction/) fue esta:
@@ -91,7 +95,7 @@ Pero como dicen por ahí... Nunca es tarde!
 
 Así que ahora pongo en marcha un plan para acabar con la **adicción a la televisión**.
 
-###El Plan
+### El Plan
 
 La reflexión que he realizado en estos días me ha dejado claro, la necesidad de modificar lo que hasta ahora vengo haciendo
 con mi vida. En este momento no tengo un plan 100% desarollado, pero hay varias cosas que voy a empezar a implementar.
