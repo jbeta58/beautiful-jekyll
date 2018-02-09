@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Retomando el control de mi vida
-subtitle: Solamente uno mismo puedo hacer algo para que el cambio suceda
+subtitle: Solamente uno mismo puede hacer algo para que el cambio suceda
 tags: [propósitos, vida, cambios, control]
 ---
 
