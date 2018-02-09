@@ -23,8 +23,8 @@ Para terminar la jornada, estuve trabajando unas horas en el curso de Coursera d
 Y finalmente, me puse a escribir este post, son más de las 00:10, así que voy a terminar esto y me iré a dormir, para que
 mañana amanezca más fresco, haga más actividades de día (sin dormir tanto en ese horario).
 
-{: .box-note}
-**Note:** Algo genial, fue que casi no vi nada de televisión en el día y sobre todo en la tarde-noche. Ojalá pueda seguir así.
+{: .box-warning}
+**Nota:** Algo genial, fue que casi no vi nada de televisión en el día y sobre todo en la tarde-noche. Ojalá pueda seguir así.
 
 *Juan Sebastián*
 
