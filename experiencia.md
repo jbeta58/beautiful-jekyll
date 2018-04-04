@@ -15,7 +15,7 @@ Abr 2017 - Nov 2017, *Corpoconexión E.S.A.L.*, Armenia.
 
 ***
 
-### <span style="color: #009688">SUBGERENTE ADMINISTRATIVO Y FINANCIERO</span>
+### <span style="color: #009688">SUBGERENTE ADMINISTRATIVO Y DE CALIDAD</span>
 Sep 2015 - Mar 2017, *Proyecto Inmobiliario RIO S.A.S.*, Montería.
 
 #### Principales funciones y logros
@@ -36,7 +36,7 @@ Sep 2011 - Ene 2014, *Unión Temporal Eléctricos*, Montería.
 
 ***
 
-### <span style="color: #009688">SUBGERENTE ADMINISTRATIVO</span>
+### <span style="color: #009688">SUBGERENTE ADMINISTRATIVO Y DE CALIDAD</span>
 Feb 2009 - Ago 2015, *Berah Construcciones S.A.S.*, Montería.
 
 #### Principales funciones y logros
