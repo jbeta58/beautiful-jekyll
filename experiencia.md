@@ -15,7 +15,7 @@ Abr 2017 - Nov 2017, *Corpoconexión E.S.A.L.*, Armenia.
 
 ***
 
-### <span style="color: #009688">SUBGERENTE ADMINISTRATIVO Y DE CALIDAD</span>
+### <span style="color: #009688">SUBGERENTE ADMINISTRATIVO Y FINANCIERO</span>
 Sep 2015 - Mar 2017, *Proyecto Inmobiliario RIO S.A.S.*, Montería.
 
 #### Principales funciones y logros
