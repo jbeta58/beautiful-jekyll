@@ -86,7 +86,7 @@ De lo que se piensa, se dice o se hace:
 
 Posteriormente, trabajé en otra constructora como Subgerente Administrativo y de Calidad, donde ejecuté las mismas funciones que en la anterior empresa y adicionalmente, implementé la filosofía Lean Construction para mejorar la administración de los proyectos, modelé e implementé procesos usando software especializado y realicé junto al gerente general la gestión financiera de la empresa.
 
-En 2017 terminé una Maestría en Administración con énfasis en Finanzas y regresé al Quindío. Actualmente, me desempeño como Chief Officer (Líder de Oficina) en la sede de Armenia de la empresa *[Yuxi Global](http://yuxiglobal.com),* donde trabajamos en el desarrollo y mantenimiento de software para empresas internacionales. 
+En 2017 terminé una Maestría en Administración con énfasis en Finanzas y regresé al Quindío. Actualmente, me desempeño como Chief Officer (Líder de Oficina) en la sede de Armenia de la empresa *[Yuxi Global](https://yuxiglobal.com),* donde trabajamos en el desarrollo y mantenimiento de software para empresas internacionales. 
 
 ***
 
