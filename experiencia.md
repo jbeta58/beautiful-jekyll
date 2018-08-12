@@ -7,11 +7,17 @@ subtitle: "Mis habilidades, experiencia, formación y reconocimientos... hasta a
 
 `EXPERIENCIA`
 
-### <span style="color: #009688">INSTRUCTOR VOLUNTARIO</span>
-Abr 2017 - Nov 2017, *Corpoconexión E.S.A.L.*, Armenia.
+### <span style="color: #009688">CHIEF OFFICER (LIDER DE OFICINA)</span>
+Jun 2018 - Actual, *Yuxi Global S.A.S.*, Armenia.
 
 #### Principales funciones y logros
-- Diseño e instrucción de cursos a miembros de Juntas de Acción Comunal de comunas de Armenia.
+- Administración de oficina de la sede de Armenia.
+- Contratación de proveedores y gestión de pagos.
+- Desarrollo de habilidades blandas y actividades de bienestar para el personal.
+- Realización de actividades para mejorar habilidades del idioma inglés del personal.
+- Reclutamiento y atracción de talento humano con las capacidades y habilidades necesarias para ocupar las vacantes vigentes.
+- Ejecución de actividades para el cumplimiento de políticas del programa de seguridad y salud en el trabajo .
+- Mantenimiento y mejora de mobiliario e infraestructura tecnológica.
 
 ***
 
